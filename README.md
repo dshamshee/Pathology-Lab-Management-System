@@ -2,7 +2,7 @@
 Pathology Management System (PAMOGY LABG) is a comprehensive desktop software developed using Visual Basic 6.0 and Oracle SQL Plus. This software is designed to streamline and automate the various tasks performed in a pathology lab, providing professional and diagnostic imaging solutions.
 
 Features
-1.Administration: The software provides administrative controls for managing the overall operations of the pathology lab.
+1. Administration: The software provides administrative controls for managing the overall operations of the pathology lab.
 2.Add Category: This feature allows you to add different categories for tests, making it easier to organize and manage them.
 3.Add Test: You can add new tests to the system, expanding the range of services provided by the lab.
 4.Report: Generate detailed reports based on the test results, providing clear and concise information for doctors and patients.
