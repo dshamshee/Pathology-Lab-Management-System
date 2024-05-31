@@ -3,7 +3,7 @@ Pathology Management System (PAMOGY LABG) is a comprehensive desktop software de
 
 Features
 1. Administration: The software provides administrative controls for managing the overall operations of the pathology lab.
-2.Add Category: This feature allows you to add different categories for tests, making it easier to organize and manage them.
+2. Add Category: This feature allows you to add different categories for tests, making it easier to organize and manage them.
 3.Add Test: You can add new tests to the system, expanding the range of services provided by the lab.
 4.Report: Generate detailed reports based on the test results, providing clear and concise information for doctors and patients.
 5.User Signup: New users can easily sign up and start using the software.
