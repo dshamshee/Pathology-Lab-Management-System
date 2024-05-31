@@ -11,4 +11,4 @@ Features
 7. Patient Records: Manage patient records efficiently, with easy access to all patient information.
 8. Test Records: Keep track of all test records, ensuring that all test data is organized and easily accessible.
 9. Exit: Safely exit the software when not in use.
-# This software aims to make the management of a pathology lab simpler and more efficient. It is a robust solution that handles all the tasks of a pathology lab, making it an invaluable tool for any healthcare institution.
+## This software aims to make the management of a pathology lab simpler and more efficient. It is a robust solution that handles all the tasks of a pathology lab, making it an invaluable tool for any healthcare institution.
